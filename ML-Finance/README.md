@@ -93,6 +93,6 @@ We welcome contributions from the community to enhance Machine Learning for Fina
 Machine Learning for Finance is licensed under the MIT License. You can find the full license text in the [**LICENSE**](https://github.com/soham-parundekar/ML-Finance/blob/main/LICENSE) file.
 
 
-## Authors
+## Author
 
-- [Soham Parundekar](https://www.github.com/soham-parundekar)
+- [Ankeet Jena](https://www.github.com/Ankeet123)
